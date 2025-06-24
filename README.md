@@ -34,18 +34,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/devmathveiga">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=devmathveiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-  </a>
+<div align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmathveiga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ##
+  
 
 ### 🐍 Snake Contribution Graph
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devmathveiga/devmathveiga/output/snake.svg" alt="Snake animation" />
 </div>
 
