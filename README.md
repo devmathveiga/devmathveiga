@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmathveiga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmathveiga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ##
@@ -70,6 +70,6 @@
 
 ### 👁️ Contador de visitantes
 
-<div align="center">
+<div style="text-align: left;">
   <img src="https://profile-counter.glitch.me/devmathveiga/count.svg" alt="Visitor Count" />
 </div>
