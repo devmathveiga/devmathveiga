@@ -29,14 +29,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=devmathveiga&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ##
   
-<div align=center>
+<div align=left>
   
  <img src="https://raw.githubusercontent.com/devmathveiga/devmathveiga/output/snake.svg" alt="Snake animation" />
   
