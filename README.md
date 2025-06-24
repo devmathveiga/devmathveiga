@@ -34,6 +34,16 @@
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmathveiga&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+##
+  
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/devmathveiga/devmathveiga/output/snake.svg" alt="Snake animation" />
+  
+</div>
+  
+## 
+
 ---
 
 ### 💡 Sobre mim
