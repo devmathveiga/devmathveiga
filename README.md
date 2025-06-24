@@ -67,9 +67,3 @@
 </div>
 
 ##
-
-### 👁️ Contador de visitantes
-
-<div style="text-align: left;">
-  <img src="https://profile-counter.glitch.me/devmathveiga/count.svg" alt="Visitor Count" />
-</div>
